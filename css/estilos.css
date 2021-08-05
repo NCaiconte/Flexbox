@@ -1,0 +1,140 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.Encabezado{
+    margin: 50px 0px 50px 15px;
+    text-align: center;
+    float: left;
+}
+html{
+    background: #000;
+}
+
+body{
+    color: white;
+}
+
+h3{
+    font-size: xx-large;
+    text-align: center;
+    
+    margin: 50px;
+}
+
+li{
+    display: inline-block;
+    margin: 50px 15px 0px 0px;
+    cursor: pointer;
+    padding: 20px;
+    font-size: large;
+}
+
+ul{
+    text-align: end;
+    
+}
+
+h2{
+    padding: 50px;
+    text-align: center;
+    
+}
+
+
+
+img{
+
+    width: 100%;
+    height: 750px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.lista{
+   
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+       
+}
+
+.item1{
+    background-image: url(./lights.jpg);
+    width: 20%;
+    height: 130px;
+    padding: 5px;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    margin: 50px;
+    box-shadow: rgba(163, 163, 163, 0.555) 5px 5px;
+    
+}
+
+.item2{
+    background-image: url(./Landscaping.jpg);
+    width: 20%;
+    height: 130px;
+    padding: 5px;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    margin: 50px;
+    box-shadow: rgba(163, 163, 163, 0.555) 5px 5px;
+}
+
+.item3{
+    background-image: url(./material.jpg);
+    width: 20%;
+    height: 130px;
+    padding: 5px;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    margin: 50px;
+    box-shadow: rgba(163, 163, 163, 0.555) 5px 5px;
+}
+
+.item4{
+    background-image: url(./wood.webp);
+    width: 20%;
+    height: 130px;
+    padding: 5px;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    margin: 50px;
+    box-shadow: rgba(163, 163, 163, 0.555) 5px 5px;
+}
+
+.item5{
+    background-image: url(./steel.jpg);
+    width: 20%;
+    height: 130px;
+    padding: 5px;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    margin: 50px;
+    box-shadow: rgba(163, 163, 163, 0.555) 5px 5px;
+}
+
+.item6{
+    background-image: url(./fabrics.jpg);
+    width: 20%;
+    height: 130px;
+    padding: 5px;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    margin: 50px;
+    box-shadow: rgba(163, 163, 163, 0.555) 5px 5px;
+}
+ 
+footer{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    margin: 25px;
+}
